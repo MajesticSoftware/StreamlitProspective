@@ -8,8 +8,6 @@ import os
 from gtts import gTTS
 import streamlit as st
 
-os.environ["OPENAI_API_KEY"] = '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'
-
 embeddings = OpenAIEmbeddings(openai_api_key=os.environ["OPENAI_API_KEY"])
 
 loader = DirectoryLoader('ScrapData', glob="**/*.txt")
