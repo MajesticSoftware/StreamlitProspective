@@ -1,0 +1,43 @@
+Overview
+
+“An environment that enables spot trading and is designed to provide users with the best experience.” As always, the JustMoney team is committed to delivering not just a basic product, but something polished that meets all our quality criteria. Speed, simplicity, practicality, and ease of use are all priorities. Our developers and designers are working diligently to offer you a comprehensive and enjoyable experience rather than just a simple product. “Everything you need at your fingertips.” The term "environment” was not chosen randomly. We aim to provide more than just a limit orders interface; we want to create a space that equips you with the necessary tools and information to make informed decisions and take control of your actions. “Built for users”
+
+Experience a CEX-like interface, familiar to many users.
+
+Place limit orders for swaps to be executed at your target price.
+
+Add any indicators to a chart and save your layout for future use.
+
+Mark your most-used pairs as favorites for easy access.
+
+Follow recent news from projects you trade.
+
+Implement stop-losses for your trades (coming soon).
+
+Spot trading/limit orders: The primary goal of this brand-new product is to offer Tronics the ability to buy or sell a predetermined quantity of tokens while specifying the maximum price to be paid or the minimum price to be received. This allows our users to adapt their strategies to the market and seize opportunities without having to constantly monitor their screens. Trading view charting and tools: To provide users with the best trading environment, we have integrated Trading View directly into the DEX’s page. All charts, tools, and indicators will be available for JustMoney’s listed tokens. Favorite pairs: A dedicated window for your favorite pairs allows you to switch between them with a single click (available only on computers). Listed projects’ Twitter feed: Stay informed while trading! After analyzing a token chart and feeling ready to place an order, take a quick look at the project’s Twitter feed to see if there is any news that might influence the token’s price action. Trading history: Keep up to date with the latest transactions effortlessly. A list will be available directly on the same page, and clicking on one of these transactions will take you straight to the Tronscan block explorer. TRX Wrapper: Please note that only TRC20 tokens are supported, so you’ll need to use WTRX instead of TRX. If you lack WTRX, a pop-up wrapper will appear.
+
+Innovation:
+
+Besides allowing traders to stay up to date with the latest news regarding the tokens they are about to buy or sell in real time, we have implemented additional innovations that we believe will become standard on exchange platforms: Pick from chart button: After identifying support and resistance areas, select the price of your buy or sell orders by simply clicking on the “Pick from chart” button and then clicking on the chart. Of course, you can also set the buy or sell price manually by entering it directly in the “Price” field.
+
+Orders on chart: Once your order is recorded, a line will appear on the chart at the order price, green for buy orders and red for sell orders.
+
+Click & drag modifications: If market conditions change and you wish to modify your order, don’t worry. Simply click on the order line on the standard chart and drag it upward or downward. No additional fees will be required from us.
+
+Socket Connections: On the spot platform, we utilize socket connections in place of HTTP polling. This approach enables our socket cluster to deliver real-time updates on pricing and order status changes directly to clients, providing a more efficient and seamless user experience.
+
+Roadmap/project website
+
+The JustMoney team is excited to announce that our limit order solution has already been launched on the Tron mainnet! You can access it directly at just.money/spot 1 
+
+Milestone for 2023 Q2:
+
+Visual representation of order book (depth)
+
+Different order types e.g. stoploss
+
+BSC and POLYGON networks supported
+
+Instructions
+
+Buy/sell order: Select the pair you want to trade Select buy or sell Set up a price directly in the “Price” field or using the “Pick from chart” button Input the amount of tokens you want to spend or you want to receive Click on “place order” button Sign the approval and the transaction Cancel order: Click “cancel” button and sign the transaction Modify order: Click on the order’s line directly on the chart and drag it upward/downward (no extra cost from our platform for order modifications).

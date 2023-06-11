@@ -1,0 +1,51 @@
+Overview
+
+JustMoney Swap is an AMM decentralized exchange (DEX) launched initially on the Tron Blockchain. It is the first multi and cross-chain swap with full support for taxed tokens. JustMoney Swap currently supports tokens on Tron, BNB, Polygon and Bittorrent Chain with support for other blockchains later. Listing on the exchange is free of charge. Additionally, we provide listed projects with free-of-use tools such as telegram bots, charting, swap widgets, giftcard platform and more.
+
+How to list your project?
+
+All listings are free of charge, however since we actually make your project visible and also announce it, we have certain pre-conditions for each listing.
+
+Your project passes our due-diligence process. Mainly we check that the project feels solid project and it doesn't have any red flags
+
+You will open a decent size pool which is normally around min. 2500 usd per side (note that this will still be your money and no listing fees are taken)
+
+
+
+If you think your project passes the requirements above please fill our listing application in https://just.money/listing 
+
+We will contact you with more instructions. Once your project is listed on JustMoney Swap, your token will also be visible on JustMoney Gift and our cross-chain swap. If your pool size is large enough we will also add it to JustMoney Pay. You can also utilize our tools free of charge. You can install widgets on your webpage, you can ask for charting bot for your telegram channel and you can provide your own cards for our gift platform.
+
+Discounted swap fees on Tron
+
+We cut the energy cost of swaps by up to 70% on Tron. Enjoy discounted swaps on JustMoney Swap.
+
+After the increase of fees on Tron chain we wanted to offer people a chance to have swaps even cheaper than before the fee increase of Tron so we made a functionality that allows people to pay up to 70% less energy cost when swapping on Tron chain.
+
+If you use TRX to pay for the energy cost (instead of energy) you will get a swap for flat rate of 19 TRX when our "discounted swap" light is green. You can see that light on the info box at the bottom of the swap just above the connect wallet/swap button.
+
+If the light is green you will also see a percentage value of the current energy regeneration and when that goes to 100% the discounted swap will be available again.
+
+It looks like this when there is not enough energy on our system for discounted swaps
+
+We will use part of the collected fees to buy back and burn JM token and one part to reinvest it by freezing those to grow the energy that this system has (if we see it needs more energy).
+
+Note: Our platform will try to use discounted swaps only if the user has less than 50000 energy on their wallet
+
+When you try to swap with a discounted fee, please note that TronLink still displays the estimated fee like it normally would. It doesn't for some reason know to calculate it correctly by checking that our wallets have energy and that our contract is set to use that energy instead. So even if it's showing that the fee would be e.g. 70 TRX it will still not charge TRX fees for energy as long as our contract has enough energy available. There could be a case that someone would pay some network fees in case too many people are attempting to swap at the exact time as the light turns green. That's why we recommend to not swap immediately after the light turns green but give it a bit of time instead of rushing to swap. 
+
+Earn JM every day by providing energy
+
+You can help other people and our ecosystem by providing us energy for this system. If you freeze energy for our wallet address linked to this system you will automatically earn 0.3 JM per day per 1 TRX frozen. Just freeze energy to following address: TSJcv2QH5Td9gSyXjWNxw5DAKk5ujJ3mFM and you will automatically start receiving the rewards daily to the same address where you froze TRX from.
+
+We might adjust the rate of distributed JM depending on the energy we have there in total. If we see that we have excessive amounts of energy available at most times which is not utilized, we might adjust the rate of distributed JM per TRX.
+
+Our system will only pay rewards for those that freeze over 5000 TRX for energy. Also the payments are capped to 500k TRX size of freeze per wallet. So if you freeze over 500k for energy you would be paid rewards for 500k TRX frozen value
+
+Multi-DEX routing
+
+Our swap infrastructure can now route through third-party DEXes to find the best price for you. When you select the tokens which you are swapping and input the amount you will see route at the bottom of the swap window. It now also shows DEXes that it will use to take that route. Let's take an example here by trying to swap 1000 TRX to JM. You can see below it will first swap TRX to USDT in Sunswap then it will swap that USDT to JM on JustMoney Swap. It means this was the route that gives most JM for you.
+
+This not only gives you better prices but also drops the price impact that users will get. We will integrate the big main pools from other DEXes so our users can have better prices with less impact. E.g. on Tron side there is no reason for people to go to Sunswap anymore to swap the main tokens/coins since they can now do it directly on JustMoney Swap and there is still a chance that the price will be even better since it checks the pools from our swap as well and prices always differ slightly. In another example let's try to swap 10 000 USDT to TRX
+
+You can see it uses only Sunswap pool in this case and swaps 10k USDT with 0.04% price impact. On Tron chain you can also have discounted swap no matter which route is taken so if you are paying energy cost with your TRX then you can enjoy our fixed rate of 19 TRX per swap.

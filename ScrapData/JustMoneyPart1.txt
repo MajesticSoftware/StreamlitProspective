@@ -1,0 +1,126 @@
+Introduction
+
+What is JustMoney?
+
+JustMoney is a decentralized cross-chain DeFi and Web3 ecosystem. It provides all the tools for cryptocurrency exchanging, for merchants to accept cryptocurrency and for crypto projects to grow their business.
+
+Our ecosystem consists of a DEX, bridge, cross-chain swap, a decentralized payment gateway with 4 sub products, cryptocurrency gifting platform, a launchpad and many tools that utilize our ecosystem. Our key difference between other dexes is that we work closely with projects and we provide them all the tools they need to run their business. We have widgets that projects can use on their own website, we offer charting bots for their telegram channels and other useful tools. We also actually "list" projects on our dex after a due-diligence has been done. 
+
+Our DEX ecosystem is currently integrated into 5 chains: Ethereum, Tron, BSC, Polygon and BTTC, but we are looking to integrate more chains in the future. (For now, Ethereum is integrated on the bridge and JM Pay but it will be soon added to swap as well) JustMoney Pay is integrated also with Avax, Fantom and Cronos.
+
+We are also winners of TronDAO's Hackathon in season 1 and we got a prize in season 2 for the most voted project by community votes.
+
+Our Goal
+
+Our main goal is to increase crypto awareness and adoption and to make cryptocurrency mainstream by bringing real use-cases and utilities for everybody despite their level of knowledge in crypto. We put a lot of focus on products itself and for us a product is only a product if it is easy to use for anybody, looks professional, solves a problem and of course serves its main purpose. Most of the products on crypto are neither of those or at least missing some of those key elements.
+
+Composability / future integrations
+
+We have built our platform in a way to really easily add new features or integrations to third-party vendors or to other chains. Our DEX is used as the foundation for all of our other products. For example on JustMoney Pay when users pay their order it will automatically swap the used tokens to USDT and merchant will always get USDT. The gift platform and launchpad also uses our pools. Cross-chain swap uses our pools and the bridge to allow swaps from one token on chain A to another token on chain B. We are looking to integrate more chains to our platform but first we want to scale up the ones that are already integrated. What comes to JustMoney Pay, we have a Woocommerce plugin and API available for checkout and for donations we have API and Wordpress plugin. We want to also bring it to other e-commerce platforms e.g. Shopify. 
+
+
+Whitepaper
+
+Version 1.3 dated Nov 20, 2022
+
+Introduction
+
+A cross-chain ecosystem powering Web3 and DeFi with our next generation decentralized applications.
+
+Background
+
+Today, most cryptocurrencies are treated as collectibles, which is slowing down mass adoption. Cutting out the middleman is an eventuality in every mature industry, and blockchain technology is here to do it to the financial industry. The infrastructure is in place, and early adopters are ready to embrace it. JustMoney was founded to catalyze the shift from fiat to crypto.
+
+Problems to solve
+
+The use of fiat has led to many problems, which cryptocurrencies can solve. Speed and cost are some of the overlooked issues, yet low-hanging fruits, JustMoney, will initially be making use of. Another issue is how to move money from A to B (online and offline) at a fraction of the current cost, regardless of how big or small the transaction is.
+
+Mission
+
+To build the next generation of payment applications to make cryptocurrencies mainstream.
+
+Token
+
+$JM is the token that powers JustMoney that will be used by all products created. The token is a deflationary token which gets bought back and burned occasionally using the revenues that we generate from our products.
+
+Roadmap
+
+
+
+JustMoney Swap Interface (Q3 / 2021)
+
+Allow users to purchase JustMoney tokens directly from our website. The Swap Interface will use JustSwap as the liquidity pool. Users will need TronLink, Klever, or any other Tron-supported wallet to swap TRX or USDT to JustMoney and vice-versa. This will make it easier for users to acquire $JM and save our time educating users on using different swaps.
+
+We will only have TRX to JM swaps in the first phase, but we will add USDT the week after.
+
+CoinEyes Generator (Q3 / 2021)
+
+Projects listed with JustMoney will be able to add their logo to the coin eyes generator. It is a fun and free advertising tool to engage the projects with their users. CoinEyes is a tool that will allow communities to band together and further their reach in the crypto-verse.
+
+JustMoney Swap (Q3 / 2021)
+
+JustMoney Swap is an AMM decentralized exchange (DEX) launched initially on the Tron Blockchain. It is the first multi-chain swap with full support for taxed tokens on the Tron network. JustMoney Swap currently supports tokens on Tron, BSC, Polygon and Zenith with support for other blockchains later. Listing on the exchange is free if projects provide enough liquidity to prevent an enormous price impact.
+
+This was the first "external" revenue stream for JustMoney and a game-changer where our value can grow by attracting new users and driving JM's value from each transaction.
+
+From each transaction we take a fee and half of it is be used to buy JM from the market, pushing up its price. The other half will be added to the JM liquidity pools as TRX, BNB, MATIC or BTT, automatically increasing JM's price.
+
+JustMoney Swap Widget (Q4 / 2021)
+
+JustMoney offers a swap widget, upon request, for projects listed on its exchange. Projects can install it on their website and start offering swap services for their users for any supported TRC20, ERC20, and BEP20 tokens. Also, this widget will allow token holders to provide liquidity to pools on the project's website directly. 
+
+Multi-chain Swap (Q4 / 2021)
+
+This is the first multi-chain swap with full support for taxed tokens. JustMoney has created a platform where users from Tron, Binance, Polygon and Zenith can easily swap their favorite tokens. Soon, it will support more blockchains. There is a 0.3% swap fee from which 0.25% goes to liquidity providers and 0.05% to the platform, which is used to buy back and burn $JM tokens. 
+
+JustMoney Launchpad (Q4 / 2021)
+
+JM Launchpad is a token launch platform initially launched on the Tron Blockchain, which is now a multi-chain platform supporting tokens on Tron, Binance, Polygon and Zenith blockchains. Its intended purpose is to help projects increase their reach across these ecosystems, raise funds, and allow users the chance to be part of the thriving and game-changing projects in each blockchain.
+
+Why use JustMoney Launchpad? It is more than a token offering platform as it offers advisory services for new and existing projects. This is an opportunity for projects to benefit from JustMoney's team experience and insight, allowing them to focus on developing their product and, most importantly, increase adoption. It also allows the successful launch of tokens in which slippage is automatically adjusted to minimize failed transactions.
+
+JustMoney Launchpad has already successfully launched BabyTuru ($BBT) and Kraftly ($KTY), the native governance and stock token for Kraftly NFT marketplace. 
+
+JustMoney Bridge (Q2 / 2022)
+
+JustMoney Bridge, it takes us from multi-chain to truly cross-chain. Not only it allows JM tokens to be moved quickly and cheaply from one blockchain to another, but we can also offer this service to other projects, who can apply for their tokens to be added to the bridge. An opportunity to easily expand their project to other chains and utilize our fast ~1 minute transit times.
+
+We will charge projects a monthly fee if they want to avail this service. If you run a project and want to add your token on our bridge, please contact any of our admins on our telegram group @JustMoneyTRX or send an email to [email protected] Using the JustMoney bridge, not only can projects on Tron expand to other chains such as Polygon, BTTC and BSC. But projects native to BSC for example can also expand to Tron network, BTTC and Polygon. A fast and affordable two-way, multiple chain, cross-chain, solution as a service.
+
+Transactions are done in 30-90 seconds no matter which destination and source chain is used. Each transaction has a very small fee. Normally around 0.6–1 USD in value. The fee is taken in the base coin of the source chain where you are transferring from. The fee will be used to cover the costs that we need to pay and for the gas fees when our validators do the “voting”. It will also leave us small income on top of that for the buyback and burns of our JM token. 
+
+Cross-chain Swap and Widget(Q2 / 2022)
+
+This is a platform where people any token on our ecosystem on any supported chain, and they can pay with any token on another chain. This also makes it easier for new users to acquire e.g. TRX or JM, making their journey on the Tron Network smoother. This feature will make it easier for the JustMoney team to target people on other chains. Since TRX can also be bought from the Cross-chain Swap, it will help the whole Tron Ecosystem at the same time and will hopefully also boost trust and acceptance of JustMoney within the Tron community.
+
+We also developed a widget for this that any website can take allowing anyone to easily do cross-chain swaps on third-party sites. 
+
+JustMoney Pay(Q3 - Q4 / 2022)
+
+The main benefit is opening up to crypto users and receiving funds instantly (instant clearing instead of 14-45 days from purchase)
+
+Plugin for eCommerce stores to start accepting crypto payments - Begin with Woocommerce and expand to other payment systems.
+
+Api integration - Add API for custom integration possibility
+
+Mobile payment terminal - A terminal for offline merchants to accept payments from their customers with QR code.
+
+Payment links - Allows anyone to create payment links and receive one-time cryptocurrency payments
+
+Donation Button - A donations button which can be placed on any website to start receiving donations right away 
+
+Fiat on/off-ramp (Q2 - Q4 / 2023)
+
+- On-ramp will allow buying crypto with debit/credit card - Off-ramp will allow converting crypto back to fiat - Crypto will be instantly converted to selected token and transferred to user's wallet. Funds will not stay in our custody.
+
+One Click Buy Button (Q2 - Q4 / 2023)
+
+- Wallet agnostic shopping app helping to speed up purchases - Universal ledger linking wallet address with shipping address - Why would anyone buy: Increases store conversion substantially - Business model: fixed fee in JM
+
+JM Marketplace - Proof-of-concept (Q1 - Q2 / 2024)
+
+This is a shopping marketplace where users can purchase products or services with any TRC-20 tokens.
+
+- Launch of marketplace - First partner stores integrated. Over 100 brands and 10 000 products in multiple product categories. High-quality brands (Apple, Nike, etc.) - Why would anyone buy? Allows users to purchase anything using crypto. - Business model: commissions from sales. JM operates everything end-to-end
+
+Half of profits the marketplace makes (5-12% commission) will be used for buying $JM tokens, making it scarcer and driving the price up.
