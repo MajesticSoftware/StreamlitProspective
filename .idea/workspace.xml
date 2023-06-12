@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a43ad19b-c9b9-4d9f-9e4a-1af4ea401f7e" name="Changes" comment="environment" />
+    <list default="true" id="a43ad19b-c9b9-4d9f-9e4a-1af4ea401f7e" name="Changes" comment="environment2.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686524742034</updated>
       <workItem from="1686524743106" duration="15000" />
-      <workItem from="1686524791156" duration="2683000" />
+      <workItem from="1686524791156" duration="3496000" />
     </task>
     <task id="LOCAL-00001" summary="New api">
       <created>1686526961001</created>
@@ -71,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686527418160</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="environment2.0">
+      <created>1686527624777</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686527624777</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New api" />
     <MESSAGE value="environment" />
-    <option name="LAST_COMMIT_MESSAGE" value="environment" />
+    <MESSAGE value="environment2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="environment2.0" />
   </component>
 </project>
